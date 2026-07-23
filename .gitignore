@@ -11,3 +11,12 @@ next-env.d.ts
 # Agent tooling (auto-installed skills), not part of the app
 .agents/
 .claude/
+
+# Capacitor iOS — generated/native build artifacts
+ios/App/Pods/
+ios/App/App/public/
+ios/App/build/
+ios/DerivedData/
+ios/capacitor-cordova-ios-plugins/
+*.xcworkspace/xcuserdata/
+DerivedData/

@@ -1,5 +1,7 @@
 # 🛒 Aisle List — Voice Shopping App
 
+**Live:** [aisle-list.vercel.app](https://aisle-list.vercel.app) · auto-deployed from `main` via Vercel.
+
 Dictate your shopping list as you walk around the kitchen. The app listens,
 splits your rambling into individual items, and sorts them into supermarket
 aisle categories — so at the shop you tick things off in the order you walk
